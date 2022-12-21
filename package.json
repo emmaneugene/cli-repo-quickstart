@@ -1,0 +1,29 @@
+{
+  "name": "cli-repo-quickstart",
+  "version": "1.0.0",
+  "description": "## About",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emmaneugene/cli-repo-quickstart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emmaneugene/cli-repo-quickstart/issues"
+  },
+  "homepage": "https://github.com/emmaneugene/cli-repo-quickstart#readme",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "chalk-animation": "^2.0.3",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.2",
+    "inquirer": "^9.1.4",
+    "nanospinner": "^1.1.0"
+  }
+}
